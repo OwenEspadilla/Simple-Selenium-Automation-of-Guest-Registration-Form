@@ -1,0 +1,1 @@
+This is a simple Selenium Automation using c# Console Application of this webpage "https://demo.wpeverest.com/user-registration/guest-registration-form/" it in inlcude simulating typings each key on a textbox
